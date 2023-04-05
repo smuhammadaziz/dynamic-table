@@ -94,5 +94,29 @@
     "country": "USA",
     "zipcode": "33101",
     "occupation": "Software Developer"
+  },
+  {
+    "id": 9,
+    "name": "Alice",
+    "age": 25,
+    "email": "alice@example.com",
+    "phone": "123-456-7890",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "zipcode": "94107",
+    "occupation": "Data Scientist"
+  },
+  {
+    "id": 10,
+    "name": "Bob",
+    "age": 35,
+    "email": "bob@example.com",
+    "phone": "555-555-8888",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "zipcode": "10001",
+    "occupation": "Marketing Manager"
   }
 ]
