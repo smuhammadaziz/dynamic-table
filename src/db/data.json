@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "john",
+    "age": 20,
+    "email": "john@gmail.com",
+    "phone": "+99890123567"
+  },
+  {
+    "id": 2,
+    "name": "alex",
+    "age": 32,
+    "email": "alex@gmail.com",
+    "phone": "+998987451252"
+  },
+  {
+    "id": 3,
+    "name": "hugo",
+    "age": 19,
+    "email": "hugo@gmail.com",
+    "phone": "+998977102363"
+  },
+  {
+    "id": 4,
+    "name": "simon",
+    "age": 20,
+    "email": "simon@gmail.com",
+    "phone": "+998945693333"
+  },
+  {
+    "id": 5,
+    "name": "alexandra",
+    "age": 20,
+    "email": "alexandra@gmail.com",
+    "phone": "+998902223322"
+  }
+]
