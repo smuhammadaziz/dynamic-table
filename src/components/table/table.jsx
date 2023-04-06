@@ -44,7 +44,7 @@ const Table = () => {
       },
       {
         accessorKey: 'occupation',
-        enableColumnOrdering: true, //disable column ordering for this column,
+        enableColumnOrdering: true,
         header: 'Kasbi',
       },
     ],
